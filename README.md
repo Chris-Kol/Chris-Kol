@@ -1,22 +1,31 @@
-## Hello, World! I'm Christina 🖖
+## Hello, World! I'm Christina 🖖 Welcome to my code playground!
 
-### About Me
+### 🚀 About Me
 
-Once a mechanical engineer, tinkering with physical wonders, I've evolved into a code-wielding magician. With a keen interest in technology, I've embarked on a journey that encompasses neural networks, melodic saxophone tunes, and the enchanting world of AI-generated bios.
+Former mechanical engineer who fell in love with coding. Now I'm crafting digital solutions and sprinkling a bit of fun into the tech world.
 
-### Experience
+### 💻 What I'm up to
 
-- 🔩 **Former Mechanic:** My journey began as a mechanical engineer, where I explored the intricacies of physical systems and structures.
-- 🧠 **AI Enthusiast:** I delved into the fascinating world of neural networks and deep learning, channeling AI magic through R and Python for my diploma thesis.
-- 🛒 **Ex-eCommerce Wizard:** I once held the scepter in the e-commerce realm, shaping user experiences and optimizing digital storefronts.
-- 🤖 **Current Code Conjurer:** Today, I wield the wand of code as a Software Engineer at [@Epignosis](https://www.epignosishq.com/), crafting digital solutions that drive learning and growth.
-- 🎷 **Saxophone Virtuoso:** When I'm not immersed in the world of programming, you can find me lost in the harmonious melodies of the saxophone, experimenting with melodic improvisations.
-- 🚩 **CTF Raider:** As the sun sets on the workweek, I transform into a CTF Raider, relentlessly pursuing flags, crafting tunes, and even training GPT-3 for GitHub Bios. 🏴‍☠️🎵🤖
+🧙‍♀️ Conjuring code spells at [Epignosis](https://www.epignosishq.com) \
+🎭 Moonlighting as the creator of [The Kollabs Chronicle](https://kollabs.dev/) - where tech meets giggles \
+🎷 Occasional saxophone whisperer (my code has fewer bugs than my solos) \
+🤖 Tinkering with AI in my spare time (teaching robots to laugh at my jokes)
 
-### Let's Connect
+### 🛠️ Tech Toolbox
 
-Feel free to reach out and connect. You can drop me a message at [christina.koleri@gmail.com](mailto:christina.koleri@gmail.com), or let's connect on [LinkedIn](https://www.linkedin.com/in/christina-koleri-8011671b8/). I'm always up for a chat about technology, music, or sharing CTF conquests.
+PHP, JavaScript, Python, Rust (in progress) and an unhealthy obsession with memes about semicolons
 
-Thanks for stopping by! Let's embark on a journey of code, harmony, and digital adventures together.
+### 🌈 Fun Fact
+
+I once debugged a mechanical system and a software system on the same day. The software bug was easier to fix, but the mechanical one made for a better story!
+
+### 🤝 Let's Connect!
+
+Got a cool project? Want to swap coding horror stories? Or need a partner in crime for your next hackathon? Let's chat!
+
+📧 [christina.koleri@gmail.com](mailto:christina.koleri@gmail.com) \
+🔗 [LinkedIn](https://www.linkedin.com/in/christina-koleri-8011671b8/)
+
+Remember, in a world of syntax errors, be a console.log()!
 
 [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Chris-Kol.Chris-Kol)](https://github.com/Chris-Kol)

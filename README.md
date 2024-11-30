@@ -15,10 +15,6 @@ Former mechanical engineer who fell in love with coding. Now I'm crafting digita
 
 PHP, JavaScript, Python, Rust (in progress) and an unhealthy obsession with memes about semicolons
 
-### 🌈 Fun Fact
-
-I once debugged a mechanical system and a software system on the same day. The software bug was easier to fix, but the mechanical one made for a better story!
-
 ### 🤝 Let's Connect!
 
 Got a cool project? Want to swap coding horror stories? Or need a partner in crime for your next hackathon? Let's chat!

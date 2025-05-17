@@ -1,27 +1,35 @@
 ## Hello, World! I'm Christina 🖖 Welcome to my code playground!
 
-### 🚀 About Me
+### 🔧 From mechanical to software
+I used to be a mechanical engineer until coding won me over. Now I build digital solutions instead of physical ones.
 
-Former mechanical engineer who fell in love with coding. Now I'm crafting digital solutions and sprinkling a bit of fun into the tech world.
+### 💻 What I'm doing now
+- Working as a developer at [Epignosis](https://www.epignosishq.com)
+- Running [The Kollabs Chronicle](https://kollabs.dev/) - where tech meets giggles
+- Playing saxophone badly (but enthusiastically)
+- Messing around with AI projects in my free time
 
-### 💻 What I'm up to
+### 🛠️ Tech I use
+PHP, Javascript/TypeScript, Python, Domain-Driven Design, and an unhealthy obsession with memes about semicolons.
 
-🧙‍♀️ Conjuring code spells at [Epignosis](https://www.epignosishq.com) \
-🎭 Moonlighting as the creator of [The Kollabs Chronicle](https://kollabs.dev/) - where tech meets giggles \
-🎷 Occasional saxophone whisperer (my code has fewer bugs than my solos) \
-🤖 Tinkering with AI in my spare time (teaching robots to laugh at my jokes)
+### 💡 My approach
+I'm big on writing testable code, using design patterns, and building maintainable solutions. I like to start with domain modeling before diving into implementation.
 
-### 🛠️ Tech Toolbox
+### 🌱 Learning
+- Rust (it's kicking my butt, but I'm stubborn)
+- Better ways to structure complex applications
+- How to explain my job at family gatherings
 
-PHP, JavaScript, Python, Rust (in progress) and an unhealthy obsession with memes about semicolons
+### 🤝 Connect with me
+Have an interesting project? Want to talk code? Just say hi?
 
-### 🤝 Let's Connect!
-
-Got a cool project? Want to swap coding horror stories? Or need a partner in crime for your next hackathon? Let's chat!
-
-📧 [christina.koleri@gmail.com](mailto:christina.koleri@gmail.com) \
+📧 [christina.koleri@gmail.com](mailto:christina.koleri@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/christina-koleri-8011671b8/)
 
-Remember, in a world of syntax errors, be a console.log()!
+*Remember, in a world of bugs, be the one with a debugger.*
 
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Chris-Kol.Chris-Kol)](https://github.com/Chris-Kol)
+---
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Chris-Kol.Chris-Kol)](https://github.com/Chris-Kol)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris-Kol&layout=compact&theme=radical)
